@@ -46,6 +46,13 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-thorat09&layout=compact&theme=react)
 
 ---
+
+### 💬 About Me
+
+I enjoy building smart solutions from raw data and am constantly learning tools and techniques in the **Data Engineering** space — including **Apache Spark**, **AWS**, and **Git**.
+
+
+---
 <!--
 **kiran-thorat09/kiran-thorat09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
