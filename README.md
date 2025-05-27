@@ -23,8 +23,10 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 ### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0096D6?style=flat-square&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -37,13 +39,6 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 - 🥇 **5⭐ Python** on HackerRank  
 - 📊 **Data Analytics & Visualization** – Accenture  
 - 🐍 **Python for Beginners**
-
----
-
-### 📈 GitHub Stats
-
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran-thorat09&show_icons=true&theme=react&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-thorat09&layout=compact&theme=react)
 
 ---
 
