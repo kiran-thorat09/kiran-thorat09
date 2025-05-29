@@ -16,6 +16,11 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
 </p>
 
+<h2 align="left">Projects</h3>
+<p float="left" align="center">
+    <a href="https://github.com/kiran-thorat09/weather_etl_using_airflow" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/ETL_banner.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/kiran-thorat09/Project_group39" target="_blank" rel="noreferrer"> <img src="?raw=true" width="400" /> </a>
+</p>
 
 
 ---
