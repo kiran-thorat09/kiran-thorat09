@@ -10,7 +10,24 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 ![image](https://github.com/user-attachments/assets/d4761f16-6f74-4e1e-9aa1-191663c91ce4)
 
 ### 💼 Projects
- 
+ <h2 align="left">Education and Experience</h3>
+<p float="left" align="center">
+    <a href="https://linkedin.com/in/gersongerardcruz" target="_blank" rel="noreferrer"> <img src="/../assets/images/linkedin.png?raw=true" width="400" /> </a>
+</p>
+
+<h2 align="left">Selected Projects</h3>
+<p float="left" align="center">
+    <a href="https://github.com/gersongerardcruz/temperature_forecasting_airflow_automation" target="_blank" rel="noreferrer"> <img src="/../assets/images/temperature_forecasting.jpg?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/network_intrusion_detection" target="_blank" rel="noreferrer"> <img src="/../assets/images/network_intrusion.jpg?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/animal_face_classification" target="_blank" rel="noreferrer"> <img src="/../assets/images/animal_classification.jpg?raw=true" width="400" /> </a>    
+    <a href="https://github.com/gersongerardcruz/customer_segmentation" target="_blank" rel="noreferrer"> <img src="/../assets/images/segmentation.jpg?raw=true" width="400" /> </a>    
+    <a href="https://github.com/gersongerardcruz/extractive_and_abstractive_text_summarization" target="_blank" rel="noreferrer"> <img src="/../assets/images/summarization_banner.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/julia_root_finding" target="_blank" rel="noreferrer"> <img src="/../assets/images/root_finding.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/sentiment_analysis_on_game_reviews" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/greenhouse_gases_emissions_dashboard" target="_blank" rel="noreferrer"> <img src="/../assets/images/dashboard_visualization.jpg?raw=true" width="400" /> </a>
+</p>
 
 ---
 
