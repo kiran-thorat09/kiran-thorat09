@@ -12,7 +12,8 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 ### 💼 Projects
  <h2 align="left">Education and Experience</h3>
 <p float="left" align="center">
-    <a href="https://linkedin.com/in/gersongerardcruz" target="_blank" rel="noreferrer"> <img src="/../assets/images/linkedin.png?raw=true" width="400" /> </a>
+    <a href="https://https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/b8bd9f5d-1e88-4ad1-a91d-d9824c564ac3)
+?raw=true" width="400" /> </a>
 </p>
 
 <h2 align="left">Selected Projects</h3>
