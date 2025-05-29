@@ -7,8 +7,7 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
  <h2 align="left"> Education and Experience</h3>
 <p float="left" align="center">
-    <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer"> <img src="![ss linkdin profile](https://github.com/user-attachments/assets/07f1b794-a016-47a5-9598-65c48dc0deca)
-?raw=true" width="400" /> </a>
+    <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer"> <img src="![ss linkdin profile](https://github.com/user-attachments/assets/07f1b794-a016-47a5-9598-65c48dc0deca)?raw=true" width="400" /> </a>
 </p>
 
 <h2 align="left"> Projects</h3>
@@ -22,7 +21,7 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
     <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/sentiment_analysis_on_game_reviews" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/greenhouse_gases_emissions_dashboard" target="_blank" rel="noreferrer"> <img src="/../assets/images/dashboard_visualization.jpg?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/greenhouse_gases_emissions_dashboard" target="_blank" rel="noreferrer"> <img src="![ChatGPT Image May 28, 2025, 10_27_17 AM](https://github.com/user-attachments/assets/5febdbce-515b-4cb4-80ef-9611d8112535)?raw=true" width="400" /> </a>
 </p>
 
 ---
