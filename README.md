@@ -10,7 +10,7 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kiran-thorat09/kiran-thorat09/main/linkdin%20profile.png" width="400" alt="LinkedIn Profile" />
+    <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/linkdin%20profile.png" width="400" alt="LinkedIn Profile" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
 <h2 align="left">Projects</h3>
 <p float="left" align="center">
-    <a href="https://github.com/kiran-thorat09/weather_etl_using_airflow" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/ETL_banner.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/kiran-thorat09/Project_group39" target="_blank" rel="noreferrer"> <img src="?raw=true" width="400" /> </a>
+    <a href="https://github.com/kiran-thorat09/weather_etl_using_airflow" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/ETL_Weather1.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/kiran-thorat09/Project_group39" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/Walmart_data.png?raw=true" width="400" /> </a>
 </p>
 
 
