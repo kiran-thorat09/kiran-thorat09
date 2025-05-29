@@ -5,12 +5,12 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
 ---
 
- <h2 align="left">### Education and Experience</h3>
+ <h2 align="left"> Education and Experience</h3>
 <p float="left" align="center">
-    <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/959da7a9-da1a-4d19-9382-204f0f187f5e)?raw=true" width="400" /> </a>
+    <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer"> <img src="/../assets/images/linkedin.png?raw=true" width="400" /> </a>
 </p>
 
-<h2 align="left">### 💼 Projects</h3>
+<h2 align="left"> Projects</h3>
 <p float="left" align="center">
     <a href="https://github.com/gersongerardcruz/temperature_forecasting_airflow_automation" target="_blank" rel="noreferrer"> <img src="/../assets/images/temperature_forecasting.jpg?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/network_intrusion_detection" target="_blank" rel="noreferrer"> <img src="/../assets/images/network_intrusion.jpg?raw=true" width="400" /> </a>
