@@ -6,12 +6,11 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 ---
 ### Education and Experience
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer">
-    <img src="assets/images/b3f53d12-e1a7-4d8c-a8d0-e8831e8639ba.png" width="300" alt="LinkedIn Profile" />
-  </a>
 </p>
-
+<h2 align="left">Education and Experience</h3>
+<p float="left" align="center">
+    <a href="https://linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer"> <img src="/../assets/images/linkedin.png?raw=true" width="400" /> </a>
+</p>
 
 
 ---
