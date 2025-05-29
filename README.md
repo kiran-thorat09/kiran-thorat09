@@ -4,28 +4,8 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 📍 Based in Pune, India
 
 ---
-
- <h2 align="left"> Education and Experience</h3>
-<p float="left" align="center">
-    <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank" rel="noreferrer"> <img src="?raw=true" width="400" /> </a>
-</p>
-![ss linkdin profile](https://github.com/user-attachments/assets/ed3bc4aa-389a-46c1-9e94-e8f44c1d9214)
-
-
-<h2 align="left"> Projects</h3>
-<p float="left" align="center">
-    <a href="https://github.com/gersongerardcruz/temperature_forecasting_airflow_automation" target="_blank" rel="noreferrer"> <img src="/../assets/images/temperature_forecasting.jpg?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/network_intrusion_detection" target="_blank" rel="noreferrer"> <img src="/../assets/images/network_intrusion.jpg?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/animal_face_classification" target="_blank" rel="noreferrer"> <img src="/../assets/images/animal_classification.jpg?raw=true" width="400" /> </a>    
-    <a href="https://github.com/gersongerardcruz/customer_segmentation" target="_blank" rel="noreferrer"> <img src="/../assets/images/segmentation.jpg?raw=true" width="400" /> </a>    
-    <a href="https://github.com/gersongerardcruz/extractive_and_abstractive_text_summarization" target="_blank" rel="noreferrer"> <img src="/../assets/images/summarization_banner.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/julia_root_finding" target="_blank" rel="noreferrer"> <img src="/../assets/images/root_finding.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/sentiment_analysis_on_game_reviews" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/greenhouse_gases_emissions_dashboard" target="_blank" rel="noreferrer"> <img src="![ChatGPT Image May 28, 2025, 10_27_17 AM](https://github.com/user-attachments/assets/5febdbce-515b-4cb4-80ef-9611d8112535)?raw=true" width="400" /> </a>
-</p>
-
+### Education and Experience
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ---
 
 ### 🛠 Tech Stack
