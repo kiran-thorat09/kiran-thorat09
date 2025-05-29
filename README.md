@@ -5,18 +5,12 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
 ---
 
+### Education and Experience
+
+![image](https://github.com/user-attachments/assets/d4761f16-6f74-4e1e-9aa1-191663c91ce4)
+
 ### 💼 Projects
-
-🔹 **Sales Forecasting for Walmart**
-- Built scalable ETL pipelines using **PySpark**
-- Forecasted sales using **ARIMA, SARIMA, and FBProphet**
-- Created **interactive Tableau dashboards** for decision-making  
-[🔗 Project Repo](https://github.com/kiran-thorat09/Project_group39)
-
-🔹 **Student Performance Prediction**
-- Achieved **93% accuracy** using ML classification models
-- Implemented data preprocessing and feature engineering pipelines  
-[🔗 Project Repo](https://github.com/kiran-thorat09/Project)
+ 
 
 ---
 
