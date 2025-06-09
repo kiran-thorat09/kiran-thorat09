@@ -47,8 +47,6 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
 ---
 
-
----
 <!--
 **kiran-thorat09/kiran-thorat09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
