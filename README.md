@@ -1,12 +1,10 @@
 ## Hi there 👋 I'm Kiran Thorat
-I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Analyst transitioning into a Data Engineering role**. I specialize in building data pipelines, applying machine learning, and creating dashboards that help businesses make data-driven decisions.
+I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate ** I love to explore in AI-ML, Data Engineering technology **. I specialize in building Machine learning model, data pipelines, and creating dashboards that help businesses make data-driven decisions.
 
 📍 Based in Pune, India
 
 ---
 ### Education and Experience
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank">
