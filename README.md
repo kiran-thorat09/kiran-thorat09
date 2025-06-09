@@ -47,10 +47,6 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate **Data Ana
 
 ---
 
-### 💬 About Me
-
-I enjoy building smart solutions from raw data and am constantly learning tools and techniques in the **Data Engineering** space — including **Apache Spark**, **AWS**, and **Git**.
-
 
 ---
 <!--
