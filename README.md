@@ -8,7 +8,7 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate ** I love 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiran-thorat-81945422b/" target="_blank">
-    <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/linkdin%20profile.png" width="400" alt="LinkedIn Profile" />
+    <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/Professional%20Profile.jpg" width="400" alt="LinkedIn Profile" />
   </a>
 </p>
 
