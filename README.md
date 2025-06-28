@@ -17,7 +17,7 @@ I'm a **Big Data Analytics graduate from CDAC Pune** and a passionate I love to 
 <h2 align="left">Projects</h3>
 <p float="left" align="center">
     <a href="https://github.com/kiran-thorat09/AI_chat_assistance_for_live_website_and_PDF_queries" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/AI%20Chatbot%20(1).jpg?raw=true" width="400" /> </a>  
-   <a href="https://github.com/kiran-thorat09/AI_chat_assistance_for_website_and_PDF_queries" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/Resume_Matchmaker.jpg?raw=true" width="400" /> </a>
+   <a href="https://github.com/kiran-thorat09/AI-Powered_Resume_Match_Predictor" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/Resume_Matchmaker.jpg?raw=true" width="400" /> </a>
     <a href="https://github.com/kiran-thorat09/Data-Analysis-and-Sales-Forecasting-of-Walmart" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/Walmart_Data_Poster.jpg?raw=true" width="400" /> </a>
     <a href="https://github.com/kiran-thorat09/weather_etl_using_airflow" target="_blank" rel="noreferrer"> <img src="https://github.com/kiran-thorat09/kiran-thorat09/blob/main/asset/Weather_etl_Poster.jpg?raw=true" width="400" /> </a>
 
